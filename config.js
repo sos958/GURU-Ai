@@ -70,7 +70,7 @@ global.APIKeys = {
 
 // Sticker WM
 global.botname = process.env.BOTNAME
-global.premium = 'true'
+global.premium = 'flase'
 global.packname = 'GURU┃ᴮᴼᵀ'
 global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
